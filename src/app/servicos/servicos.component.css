@@ -1,0 +1,17 @@
+.container-servico {
+    background-color: coral;
+    height: 250px;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+
+span {
+    
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+h1 {
+    padding-top: 20px;
+}

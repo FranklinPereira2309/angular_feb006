@@ -1,0 +1,16 @@
+.container-resultado {
+    background-color: green;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+
+span {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+p {
+    padding-top: 20px;
+}

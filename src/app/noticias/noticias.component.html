@@ -1,0 +1,15 @@
+<div class="noticias">
+    <span>Notícias</span>
+    <ng-container *ngIf="noticias.length > 0; else noNoticiasTemplate">
+      <ul>
+        <li *ngFor="let noticia of noticias">
+          <h4>{{ noticia.titulo }}</h4>
+          <br>
+          <p>{{ noticia.introducao }}</p>
+        </li>
+      </ul>
+    </ng-container>
+    <ng-template #noNoticiasTemplate>
+      <p>Nenhuma notícia disponível no momento.</p>
+    </ng-template>
+  </div>

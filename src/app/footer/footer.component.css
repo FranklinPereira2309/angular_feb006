@@ -1,0 +1,20 @@
+.container-footer-main {
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+
+span {
+    
+    background-color: #fff;
+    border: 1px solid #fff;
+    margin-bottom: 5px;
+    
+}
+
+
+h2 {
+    padding: 10px;
+}

@@ -1,0 +1,26 @@
+.noticias {
+    background-color: purple;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 5px;
+    
+    
+}
+
+span {
+    
+    background-color: #fff;
+    border: 1px solid #fff;
+    margin-bottom: 5px;
+    
+}
+
+                                                                                             
+li {
+    list-style: none;
+}
+
+h4 {
+    padding: 10px;
+}
